@@ -34,7 +34,9 @@ Phần scrawl dữ liệu khá đơn giản. Tuy nhiên phần plot danh sách k
 Mình không hài lòng lắm với kết quả. Tuy nhiên, rõ ràng mình đã không phải viết một dòng code nào. ChatGPT viết toàn bộ code!
 
 Toàn bộ prompt mình dùng: https://chatgpt.com/share/66edd7db-186c-800a-868a-b3e2c4097351
+
 Code github: https://github.com/longmaisg/Yagi/tree/main
+
 Bài viết trên blog: https://louismaiblog.blogspot.com/2024/09/data-processing-of-yagis-donations.html
 
 Trong hình là plot 100 trang sao kê đầu tiên. Ví dụ mình thấy “Fan ruot Tran Thanh va Louis Pham ung ho bao lu” 2000 đồng.
