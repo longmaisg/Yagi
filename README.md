@@ -40,3 +40,5 @@ Code github: https://github.com/longmaisg/Yagi/tree/main
 Bài viết trên blog: https://louismaiblog.blogspot.com/2024/09/data-processing-of-yagis-donations.html
 
 Trong hình là plot 100 trang sao kê đầu tiên. Ví dụ mình thấy “Fan ruot Tran Thanh va Louis Pham ung ho bao lu” 2000 đồng.
+
+<img width="1669" alt="Screenshot 2024-09-20 at 21 32 30" src="https://github.com/user-attachments/assets/58dcd5eb-e8f4-413e-bd14-9b9f593886ea">
