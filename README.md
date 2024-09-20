@@ -7,3 +7,5 @@ There are several files here:
 - plot_yagi.html: show data dynamically + search box
 
 NOTE: only some pages are scrawled and shown in the html.
+
+All prompts using ChatGPT can be found here: https://chatgpt.com/share/66edd7db-186c-800a-868a-b3e2c4097351
